@@ -1,0 +1,11 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.light{
+    background-color: white;
+}
+
+.dark{
+    background-color: black;
+}
